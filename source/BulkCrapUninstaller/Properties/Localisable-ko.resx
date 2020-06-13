@@ -118,84 +118,84 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="LoadingDialogTitleCreatingRestorePoint" xml:space="preserve">
-    <value>Creating a restore point...</value>
+    <value>복원 지점 생성중...</value>
   </data>
   <data name="LoadingDialogTitleLookingForJunk" xml:space="preserve">
-    <value>Searching for leftovers...</value>
+    <value>남은 파일 찌꺼기 찾는중...</value>
   </data>
   <data name="LoadingDialogTitlePopulatingList" xml:space="preserve">
-    <value>Populating uninstaller list...</value>
+    <value>언인스톨러 목록 생성중...</value>
   </data>
   <data name="LoadingDialogTitleRemovingJunk" xml:space="preserve">
-    <value>Removing leftovers...</value>
+    <value>파일 찌꺼기 제거중...</value>
   </data>
   <data name="LoadingDialogTitleSearchingForUpdates" xml:space="preserve">
-    <value>Searching for updates...</value>
+    <value>업데이트 검색중...</value>
   </data>
   <data name="SearchNothingFoundMessage" xml:space="preserve">
-    <value>There are no entries matching your search criteria.</value>
+    <value>검색 조건에 부합하는 검색 결과가 없습니다.</value>
   </data>
   <data name="StrExportHeader" xml:space="preserve">
-    <value>BCUninstaller export
-Publisher | Version | Date | Size | Registry | Uninstaller type | Uninstall string | Quiet uninstall string | Comments</value>
+    <value>BCUninstaller 내보내기
+제작자 | 버전 | 날짜 | 크기 | 레지스트리 | 언인스톨러 종류 | 제거 스트링Uninstall string | 조용한 제거 스트링 | 비고</value>
   </data>
   <data name="StrIsPortable" xml:space="preserve">
-    <value>Portable</value>
+    <value>포터블</value>
     <comment>keep space in front</comment>
   </data>
   <data name="SysRestoreGenericError" xml:space="preserve">
-    <value>Failed to call the API</value>
+    <value>API 호출 실패</value>
   </data>
   <data name="MessageBoxes_BackupFailedQuestion_Message" xml:space="preserve">
-    <value>Registry backup failed, do you want to continue anyway?</value>
+    <value>레지스트리 백업 실패. 그래도 계속하시겠습니까?</value>
   </data>
   <data name="MessageBoxes_BackupFailedQuestion_Details" xml:space="preserve">
-    <value>Error details: </value>
+    <value>에러 정보: </value>
   </data>
   <data name="MessageBoxes_Title_Leftover_removal" xml:space="preserve">
-    <value>Leftover removal</value>
+    <value>파일 찌꺼기 제거</value>
   </data>
   <data name="MessageBoxes_Error_details" xml:space="preserve">
     <value>
 
-Error details:
+에러 정보:
 </value>
     <comment>Add space or newline afterwards and two newlines before</comment>
   </data>
   <data name="MessageBoxes_BackupRegistryQuestion_Message" xml:space="preserve">
-    <value>Do you want to create a registry backup before continuing?</value>
+    <value>진행하기 전에 레지스트리 백업을 만드시겠습니까?</value>
   </data>
   <data name="MessageBoxes_BackupRegistryQuestion_Details" xml:space="preserve">
-    <value>You will be able to roll back all changes by double-clicking it afterwards.
+    <value>레지스트리 백업을 더블클릭함으로써 나중에 변경된 사항을 되돌릴 수 있습니다.
 
-Files and directories will be moved to the recycle bin, you can restore them from there.</value>
+파일과 디렉토리는 휴지통으로 이동되며, 그곳에서 복원할 수 있습니다.</value>
   </data>
   <data name="MessageBoxes_CanSelectOnlyOneItemInfo_Title" xml:space="preserve">
-    <value>Action failed</value>
+    <value>액션 실패</value>
   </data>
   <data name="MessageBoxes_CanSelectOnlyOneItemInfo_Message" xml:space="preserve">
-    <value>You need to select only one entry for this action</value>
+    <value>이 액션을 위해서는 하나의 항목만 선택할 수 있습니다</value>
   </data>
   <data name="MessageBoxes_CanSelectOnlyOneItemInfo_Details" xml:space="preserve">
-    <value>Select exactly one uninstaller from the list. If you are using check-boxes make sure to check them.</value>
+    <value>정확히 하나의 언인스톨러만 선택하세요. 체크박스를 사용중이라면 체크박스를 체크하세요.</value>
   </data>
   <data name="MessageBoxes_Title_Search_for_updates" xml:space="preserve">
-    <value>Search for updates</value>
+    <value>업데이트 확인</value>
   </data>
   <data name="MessageBoxes_NoNetworkConnected_Open_online_content" xml:space="preserve">
-    <value>Open on-line content</value>
+    <value>온라인 컨텐츠 열기</value>
   </data>
   <data name="MessageBoxes_NoNetworkConnected_Message" xml:space="preserve">
-    <value>Can't connect to the internet, there are no networks available.</value>
+    <value>인터넷에 연결 불가, 네트워크에 연결되어 있지 않습니다.</value>
   </data>
   <data name="MessageBoxes_NoNetworkConnected_Details" xml:space="preserve">
-    <value>Make sure that your network cable is plugged in. If you are using Wi-Fi ensure that you have good signal strength.</value>
+    <value>네트워크 케이블이 연결되어 있는지 확인하세요. Wi-Fi 사용시, 좋은 연결 신호를 받고 있는지 확인하세요.</value>
   </data>
   <data name="MessageBoxes_Title_Submit_feedback" xml:space="preserve">
-    <value>Submit feedback</value>
+    <value>개발자에게 피드백 보내기</value>
   </data>
   <data name="MessageBoxes_AskToSubmitFeedback_Message" xml:space="preserve">
-    <value>Would you like to send feedback concerning BCU?</value>
+    <value>BCU 와 관련된 피드백을 보내시겠습니까?</value>
   </data>
   <data name="MessageBoxes_AskToSubmitFeedback_Details" xml:space="preserve">
     <value>This will take you less than a minute but help the development greatly! All feedback is appreciated, be it a bug report, feature request or a simple thanks!
